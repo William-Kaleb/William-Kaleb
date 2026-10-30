@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 ### Game Developer | Digital Games Student
 
-I'm a Digital Games student passionate about game development, programming,
+I'm a Digital Games student passionate about game development, programming,  
 and creative problem-solving.
 
-I have experience developing 2D and 3D games, building web applications,
-and working with different programming technologies. I'm always looking to expand
+I have experience developing 2D and 3D games, building web applications,  
+and working with different programming technologies. I'm always looking to expand  
 my knowledge and turn ideas into reality.
 
 ### Technologies & Skills
